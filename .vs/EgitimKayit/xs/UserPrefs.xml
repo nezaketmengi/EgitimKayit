@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{2D7785BD-B390-44EA-8F6B-631D96ED8F24}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EgitimKayit" expanded="True" selected="True">
+            <Node name="EgitimKayit" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EgitimKayit PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+</Properties>
